@@ -1,1 +1,1 @@
-# meraki-sw-deployment
+Migrating Cisco Catalyst SW to Meraki SW.
